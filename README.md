@@ -15,8 +15,8 @@ Project and Dashboards built with Power bi and Tableau to uncover actionable ins
 | 4 | Personal Finance Tracker | Power BI | End-to-end budget tracking dashboard | [Repo](#) \| [Live Dashboard](#) |
 | 5 | COVID-19 Trends | Tableau | Disease surveillance and trend visualization | [Repo](#) \| [Live Dashboard](#) |
 | 6 | Climate Data Story | Tableau | RFM analysis and cohort retention | [Repo](#) \| [Live Dashboard](#) |
-| 7 | Hospital Readmission Dashboard  | Tableau | League/team performance stats | [Repo](#) \| [Live Dashboard](#) |
-| 8 | E-commerce Customer Segmentation | Tableau | Environmental trends told through Tableau Story Points | [Repo](#) \| [Live Dashboard](#) |
+| 7 | Hospital Readmission Dashboard  | Power BI | League/team performance stats | [Repo](#) \| [Live Dashboard](#) |
+| 8 | E-commerce Customer Segmentation | Power BI | Environmental trends told through Tableau Story Points | [Repo](#) \| [Live Dashboard](#) |
 
 Contact: 08114598234
 - Email: [richesjohnson13@gmail.com]
