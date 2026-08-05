@@ -13,7 +13,7 @@ Welcome to my data analytics portfolio. This repository showcases dashboards and
 
 | # | Project                          | Tool     | Description                                                                          | Repository  |
 | - | -------------------------------- | -------- | ------------------------------------------------------------------------------------ | ----------- |
-| 1 | Sports Analytics Dashboard       | Power BI | Analyzes team and player performance using interactive KPIs and visualizations.      | Coming Soon |
+| 1 | Sports Analytics Dashboard       | Power BI | Analyzes team and player performance using interactive KPIs and visualizations.      | [View Project](https://github.com/Cocotams/Sports-Analytics-Dashboard) |
 | 2 | Retail Sales Performance         | Power BI | Examines sales, revenue, profit, and top-performing products across regions.         | Coming Soon |
 | 3 | HR Attrition Analytics           | Power BI | Explores employee attrition trends, key drivers, and workforce insights.             | Coming Soon |
 | 4 | Personal Finance Tracker         | Power BI | Tracks income, expenses, savings, and monthly budgeting performance.                 | Coming Soon |
