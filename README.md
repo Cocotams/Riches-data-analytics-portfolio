@@ -1,23 +1,29 @@
 # Riches-portfolio
-Project and Dashboards built with Power bi and Tableau to uncover actionable insights
+
+Welcome to my data analytics portfolio. This repository showcases dashboards and projects built with **Power BI** and **Tableau** to uncover actionable insights and support data-driven decision-making.
 
 ## Skills & Tools
-- **Visualization:** Power BI, Tableau
-- **Data Prep:** Excel, SQL, DAX
+
+* **Data Visualization:** Power BI, Tableau
+* **Data Preparation:** Excel, SQL, Power Query
+* **Data Modeling & Analysis:** DAX
+* **Version Control:** Git & GitHub
 
 ## Projects
 
-| # | Project | Tool | Description | Link |
-|---|---------|------|--------------|------|
-| 1 | Sports Analytics Dashboard | Power BI | Analysis of patient readmission trends by region and diagnosis | [Repo](#) \| [Live Dashboard](#) |
-| 2 | Retail Sales Performance | Power BI | Revenue, top products, and regional sales breakdown | [Repo](#) \| [Live Dashboard](#) |
-| 3 | HR Attrition Analytics | Power BI | Employee turnover trends and drivers | [Repo](#) \| [Live Dashboard](#) |
-| 4 | Personal Finance Tracker | Power BI | End-to-end budget tracking dashboard | [Repo](#) \| [Live Dashboard](#) |
-| 5 | COVID-19 Trends | Tableau | Disease surveillance and trend visualization | [Repo](#) \| [Live Dashboard](#) |
-| 6 | Climate Data Story | Tableau | RFM analysis and cohort retention | [Repo](#) \| [Live Dashboard](#) |
-| 7 | Hospital Readmission Dashboard  | Power BI | League/team performance stats | [Repo](#) \| [Live Dashboard](#) |
-| 8 | E-commerce Customer Segmentation | Power BI | Environmental trends told through Tableau Story Points | [Repo](#) \| [Live Dashboard](#) |
+| # | Project                          | Tool     | Description                                                                          | Repository  |
+| - | -------------------------------- | -------- | ------------------------------------------------------------------------------------ | ----------- |
+| 1 | Sports Analytics Dashboard       | Power BI | Analyzes team and player performance using interactive KPIs and visualizations.      | Coming Soon |
+| 2 | Retail Sales Performance         | Power BI | Examines sales, revenue, profit, and top-performing products across regions.         | Coming Soon |
+| 3 | HR Attrition Analytics           | Power BI | Explores employee attrition trends, key drivers, and workforce insights.             | Coming Soon |
+| 4 | Personal Finance Tracker         | Power BI | Tracks income, expenses, savings, and monthly budgeting performance.                 | Coming Soon |
+| 5 | COVID-19 Trends                  | Tableau  | Visualizes COVID-19 cases, recoveries, and trends across locations.                  | Coming Soon |
+| 6 | Climate Data Story               | Tableau  | Presents climate trends and environmental insights through interactive storytelling. | Coming Soon |
+| 7 | Hospital Readmission Dashboard   | Power BI | Analyzes hospital readmission rates, patient demographics, and healthcare outcomes.  | Coming Soon |
+| 8 | E-commerce Customer Segmentation | Power BI | Segments customers based on purchasing behavior to support marketing decisions.      | Coming Soon |
 
-Contact: 08114598234
-- Email: [richesjohnson13@gmail.com]
-- LinkedIn: [www.linkedin.com/in/riches-johnson-2a8998355]
+## Contact
+
+* **Phone:** +234 811 459 8234
+* **Email:** [richesjohnson13@gmail.com](mailto:richesjohnson13@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/riches-johnson-2a8998355
