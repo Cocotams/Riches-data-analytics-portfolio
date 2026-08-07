@@ -14,7 +14,7 @@ Welcome to my data analytics portfolio. This repository showcases dashboards and
 | # | Project                          | Tool     | Description                                                                          | Repository  |
 | - | -------------------------------- | -------- | ------------------------------------------------------------------------------------ | ----------- |
 | 1 | Sports Analytics Dashboard       | Power BI | Power BI dashboard analyzing 25 seasons of English Premier League match data (2000–2025).     | [View Project](https://github.com/Cocotams/Sports-Analytics-Dashboard) |
-| 2 | Retail Sales Performance         | Power BI | Interactive Power BI dashboard analyzing retail sales performance, revenue, customers, and product trends from 2015–2019.         | [View Project](https://github.com/Cocotams/Sales-Performance-Dashboard) |
+| 2 | Retail Sales Performance         | Power BI | Interactive Power BI dashboard analyzing retail sales performance, revenue, customers, and product trends from 2015–2019.         | [View Project](https://github.com/Cocotams/Sales-Performance-Dashboard/tree/main) |
 | 3 | HR Attrition Analytics           | Power BI | Explores employee attrition trends, key drivers, and workforce insights.             | Coming Soon |
 | 4 | Personal Finance Tracker         | Power BI | Tracks income, expenses, savings, and monthly budgeting performance.                 | Coming Soon |
 | 5 | COVID-19 Trends                  | Tableau  | Visualizes COVID-19 cases, recoveries, and trends across locations.                  | Coming Soon |
